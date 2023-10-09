@@ -22,8 +22,6 @@
     <br />
   </p>
 
-![teaser](./images/v2.png)
-
 ## Highlight!!!!
 
 Exploiting the Potential of Odds Information on Football Match Prediction
@@ -47,6 +45,8 @@ Dataset has been upload on data.csv
 ## Visualization
 
 ![teaser](./images/v1.png)
+
+![teaser](./images/v2.png)
 
 ## Citation
 If you have any question, please discuss with me by sending email to xiongzhiyang.xmu@gmail.com
