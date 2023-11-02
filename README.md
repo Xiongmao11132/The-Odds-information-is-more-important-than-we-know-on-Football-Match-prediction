@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <h1 align="center">Exploiting the Potential of Odds Information on Football Match Prediction</h1>
+  <h1 align="center">The Odds information is more important than we know on Football Match prediction</h1>
   <p align="center">
     <br />
     <strong>Zhiyang Xiong</strong></a>
